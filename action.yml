@@ -1,5 +1,4 @@
-name: EPUB annotator
-
+name: EPUB Annotator
 description: Generate EPUB footnotes using Gemini for unfamiliar words and phrases
 
 inputs:
